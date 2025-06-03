@@ -1,6 +1,7 @@
 # LinkZip - URL Shortener with Analytics
 
-![LinkZip Logo](screenshots/logo.png)
+![LinkZip Logo](![image](https://github.com/user-attachments/assets/98133c3f-c6e7-4eb4-83e4-c32e35cee384)
+)
 
 **LinkZip** is a modern, secure, and user-friendly URL shortener that simplifies link sharing while providing powerful analytics to track link performance. Built with a robust Spring Boot backend and a sleek React frontend, LinkZip allows users to create short URLs, manage them via a dashboard, and gain insights into click counts, locations, and referral sources. Whether you're a marketer, developer, or casual user, LinkZip makes URL management effortless and insightful.
 
@@ -31,8 +32,6 @@
 |---|---|---|---|
 |**Landing Page**|**Dashboard**|**Login Page**|**Register Page**|
 |![Landing Page](screenshots/landing-page.png)|![Dashboard](screenshots/dashboard.png)|![Login Page](screenshots/login-page.png)|![Register Page](screenshots/register-page.png)|
-
-_Note_: Replace the placeholders (screenshots/*.png) with actual screenshots of your app.
 
 ---
 
@@ -195,7 +194,7 @@ LinkZip's analytics dashboard provides:
 
 - **Click Counts**: Total number of clicks on each short URL.
     
-- **Geographic Data**: Locations of users clicking the links.
+- **Total Click Analytics**: Total no of clicks on URLs made by the user.
     
 - **Referral Sources**: Websites or apps driving traffic to your links.
     
