@@ -248,11 +248,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, reach out to:
 
-- **Your Name**: your.email@example.com
+- **Your Name**: subhanshnaithani@gmail.com
     
-- **GitHub**: your-username
+- **GitHub**: Subh2702
     
-- **LinkedIn**: your-linkedin-profile
+- **LinkedIn**: https://www.linkedin.com/in/subhansh-naithani-8273a7288/
     
 
 ---
@@ -267,7 +267,6 @@ For questions or feedback, reach out to:
     
 - Animations powered by Framer Motion.
     
-
 ---
 
-_Built with 💻 and ☕ by [Your Name]. Ready to simplify your links? Try LinkZip today!_
+_Built with 💻 and ☕ by Subhansh Naithani. Ready to simplify your links? Try LinkZip today!_
