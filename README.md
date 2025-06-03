@@ -29,8 +29,8 @@
 
 |   |   |   |   |
 |---|---|---|---|
-|**Landing Page**|**Dashboard**|**Login Page**|**Register Page**|
-|![Landing Page](screenshots/landing-page.png)|![Dashboard](screenshots/dashboard.png)|![Login Page](screenshots/login-page.png)|![Register Page](screenshots/register-page.png)|
+|**Landing Page**|**About Page**|**Login Page**|**Register Page**|
+|![Landing Page](screenshots/landing-page.png)|![Dashboard](screenshots/about.png)|![Login Page](screenshots/login-page.png)|![Register Page](screenshots/register-page.png)|
 
 ---
 
